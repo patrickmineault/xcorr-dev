@@ -1,9 +1,9 @@
 {
-    "name": "Skeleventy",
+    "name": "Consultation xcorr consulting – 9470-5720 Québec inc.",
     "url": "https://skeleventy.netlify.app",
     "author": {
-        "name": "Mill Burray",
-        "handle": "@joe_dyer1"
+        "name": "Patrick Mineault",
+        "handle": "@patrickmineault"
     },
     "images": {
         "favicon": "/favicon.png",
@@ -13,7 +13,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/josephdyer/skeleventy",
-        "twitter": "https://twitter.com/joe_dyer1"
+        "github": "https://github.com/patrickmineault",
+        "twitter": "https://twitter.com/patrickmineault"
     }
 }

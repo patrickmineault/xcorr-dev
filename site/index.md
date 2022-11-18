@@ -1,41 +1,45 @@
 ---
-layout: home
+layout: post
 meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+meta_description: xcorr consulting powers the neuroAI revolution
+title: NeuroAI consulting
+sub_heading: Be ahead of the curve for the coming neuroAI revolution. Software, design, data science all under one roof. 
+post_image: /images/robot-brain-1200.jpg
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-## Features
+## What is neuroAI?
 
-- Clean, understated design - a good starting point for a portfolio or blog
-- A minimal build pipeline with [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example)
-- [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
-- [Purgecss](https://purgecss.com/) to remove unused CSS
-- HTML minifier
-- Supports ES2017 JavaScript, with Babel compilation
-- SEO friendly page meta, including Open Graph and Twitter
-- Image lazy loading
-- Responsive navigation
-- XML Sitemap
+NeuroAI is the evolving intersection of neuroscience and artificial intelligence. Imagine a machine that can see just like a human. This allows us to improve everything from advertising to generative art. Anything that is meant for the human eye, we can make better. We help build a neuroAI strategy for your org. 
 
-## Getting started
+» [Our CEO explains the promise of neuroAI in a16z Future](https://future.com/applications-ai-models-of-the-brain-aka-neuroai/)
 
-### Prerequisites
-Node `v10+`
+## What we do
 
-### Installation
+- **R&D**. Build proof-of-concepts and build your neuroAI intellectual property portfolio with innovative R&D. 
+- **Code**. Data management, pipelines, machine learning for neuroAI.
+- **Visualization**. Let your neuroAI data shine with custom visualizations, from dashboards to 3d renderings.
 
-1. Clone the repo `git clone https://github.com/josephdyer/skeleventy.git`
-2. `cd` into the project folder and run `npm install`
-3. Start the local development server by running `npm run dev` **Tip:** _Eleventy has live reload baked in!_
+## About us
 
-## Ready to deploy?
+Based out of Montreal, Canada, xcorr consulting was founded in 2022 to fill the essential gap in bringing neuroAI innovations in academia to the market. 
 
-The ```npm run production``` command will remove any unused CSS with Purgecss and minify the CSS and JS files.
+<div>
+  <img style="border-radius: 50%; width:300px; height:300px; margin:auto; border: solid 4px; border-color: #24e0d0;" src="images/DAM_9112_gray.jpg">
+</div>
 
-I highly recommend using [Netlify](https://www.netlify.com) to host your site on, so I've included a ```netlify.toml``` configuration file for your convenience.
+Our Founder and President, Patrick Mineault, PhD is a pioneer of neuroAI. Graduated from McGill University as a neuroscience PhD, he was a software engineer and data scientist at Google and the first brain-computer interface engineer at Facebook. His research in NeuroAI [has been published](https://scholar.google.com/citations?user=gpQg9uQAAAAJ&hl=en&oi=ao) in NeurIPS, Neuron, PNAS and the Journal of Neuroscience. He holds [3 patents on brain-computer interface technology](https://patents.google.com/?inventor=patrick+mineault&oq=patrick+mineault&dups=language). A serial entrepreneur, xcorr consulting is the third company he has founded.
 
+## Media
+
+* [Our NeuroAI explainer in a16z Future](https://future.com/applications-ai-models-of-the-brain-aka-neuroai/)
+* [Patrick Mineault on Brains & data science on the Data Scientist show](https://podcasts.apple.com/us/podcast/the-golden-age-of-ai-and-neuroscience/id1584430381?i=1000559651103)
+* [Brains vs. AI on Bold Conjectures with Paras Chopra](https://podcasts.apple.com/us/podcast/30-patrick-mineault-understanding-how-brain-works-via/id1548112960?i=1000551991840)
+* [Unsupervised learning and the brain with Yannic Kilcher](https://www.youtube.com/watch?v=vfBAUYpMCTU)
+
+
+## Contact us
+
+Send us an email at **[hello@xcorr.dev](mailtp:hello@xcorr.dev)** to get started.
